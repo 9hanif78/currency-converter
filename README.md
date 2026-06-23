@@ -4,7 +4,7 @@ A modern currency converter application built with React that allows users to co
 
 ## Live Demo
 
-🔗 Live Website: https://vercel.com/pixel-perfect-devs/currency-converter
+🔗 Live Website: https://currency-converter-eight-inky.vercel.app/
 
 ## Overview
 
